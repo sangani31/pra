@@ -1,0 +1,78 @@
+.Prathyusha{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 100px;
+}
+.keep{
+  background-color: rgb(254, 208, 6);
+  padding:3px;
+  font-style: oblique;
+  color:white;
+  font-family: "mclaren" cursive;
+}
+h2{
+  font-size:xx-large;
+}
+.box{
+  box-shadow:1px 2px  7px 5px  #ccc;
+  border-radius: 7px;
+  background-color: #fff;
+  padding: 10px;
+  margin: 19px;
+  float: left;
+  width: 250px;
+}
+.main{
+  align-content: center;
+  border-radius: 6px;
+  box-shadow: 0 1px 2px 3px rgb(98, 100, 100);
+  width: 290px;
+  margin: auto;
+ 
+}
+.imgc{
+  border-radius: 50%;
+  width:100px;
+  border: 3px solid black;
+  height: 120px;
+  
+  
+}
+.head
+{
+  background-color:rgb(14, 187, 245);
+  display: flex;
+  gap: 40px;
+  height: 80px;
+  
+}
+.foo{
+  background-color: rgb(162, 224, 246);
+ 
+}
+h1{
+  text-align: center;
+  color:black;
+  background-color: yellow;
+  width: 201px;
+  padding :10px;
+}
+.bs{
+  box-shadow: 0px 2px 3px black;
+  margin: auto;
+  background-color: white;
+  border-radius: 10px;
+  width: 210px;
+  height: 150px;
+  text-align: center;
+  gap: 50px;
+}
+.sp{
+  margin: auto;
+  line-height: 3px;
+}
+.em{
+  display: flex;
+  padding: 80px;
+}
